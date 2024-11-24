@@ -1,0 +1,87 @@
+@model EcommerceLib.Dtos.ProductDto
+
+@{
+    ViewBag.Title = "ProductDetails";
+}
+
+@functions {
+    private string GetBarColor(int score)
+    {
+        switch (score)
+        {
+            case 1: return "red";
+            case 2: return "orange";
+            case 3: return "yellow";
+            case 4: return "lightgreen";
+            case 5: return "green";
+            default: return "gray";
+        }
+    }
+}
+
+<div>
+    <h1>@Model.ProductName</h1>
+    <div class="product-detail d-flex align-items-start">
+        <img src="http://localhost:5203/@Model.ProductImageUrl" alt="@Model.ProductName" class="img-fluid" />
+        <div class="product-info ml-4">
+            <p><strong>Description:</strong> @Model.ProductDescription</p>
+            <p><strong>Price:</strong> @Model.ProductPrice?.ToString("C")</p>
+            <p><strong>Category:</strong> @Model.Category?.CategoryName</p>
+            <p><strong>Average Rating:</strong> @Model.ProductAverageRating</h4>
+
+            <div class="rating-bars">
+                @for (int i = 1; i <= 5; i++)
+                {
+                    var percentage = (Model.Ratings == null || !Model.Ratings.Any()) ? 0 : 
+                                    (decimal)Model.Ratings.Count(r => r.Score == i) / Model.Ratings.Count * 100;
+                    var color = GetBarColor(i);
+                    <div class="rating-row">
+                        <span style="color: rgb(0, 0, 0);">@i</span>
+                        <span style="margin-left: 5px; color: gold;">&#9733;</span>
+                        <div class="progress">
+                            <div class="progress-bar" style="width: @percentage%; background-color: @color;"></div>
+                            <span class="percentage">@percentage.ToString("0")%</span>
+                        </div>
+                        <span>(@Model.Ratings.Count(r => r.Score == i))</span>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (Context.Session.GetString("Token") != null)
+{
+<div class="rating-form mt-2" style="margin-top: 0;">
+    <h3 style="margin: 0;">Leave a Rating</h3>
+    <form method="post" action="@Url.Action("SubmitRating", "Rating")">
+        <div class="form-group">
+            <label for="score">Rating (1 to 5):</label>
+            @for (int i = 1; i <= 5; i++)
+            {
+                <div class="d-flex align-items-center">
+                    <input type="radio" id="rating-@i" name="Score" value="@i" required />
+                    <span style="margin-left: 5px; color: gold; font-size: 24px;">
+                        @for (int j = 1; j <= i; j++)
+                        {
+                            <span>&#9733;</span> <!-- Hiển thị ngôi sao -->
+                        }
+                    </span>
+                </div>
+            }
+        </div>
+        <div class="form-group">
+            <label for="comment">Comment:</label>
+            <textarea id="comment" name="Comment" class="form-control" rows="4" required></textarea>
+        </div>
+        <input type="hidden" name="ProductId" value="@Model.ProductId" />
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+}
+
+@* <h1>Product Details</h1> *@
+
+
+
+

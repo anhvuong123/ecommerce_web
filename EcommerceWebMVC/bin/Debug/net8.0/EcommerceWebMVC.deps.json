@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EcommerceWebMVC/1.0.0": {
+        "dependencies": {
+          "EcommerceLib": "1.0.0"
+        },
+        "runtime": {
+          "EcommerceWebMVC.dll": {}
+        }
+      },
+      "EcommerceLib/1.0.0": {
+        "runtime": {
+          "EcommerceLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcommerceWebMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EcommerceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\api\ecommerceapi\obj\Debug\net8.0\EcommerceAPI.csproj.AssemblyReference.cache
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\api\ecommerceapi\obj\Debug\net8.0\EcommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\api\ecommerceapi\obj\Debug\net8.0\EcommerceAPI.AssemblyInfoInputs.cache
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\api\ecommerceapi\obj\Debug\net8.0\EcommerceAPI.AssemblyInfo.cs
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\api\ecommerceapi\obj\Debug\net8.0\EcommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\api\ecommerceapi\obj\Debug\net8.0\EcommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\api\ecommerceapi\obj\Debug\net8.0\EcommerceAPI.MvcApplicationPartsAssemblyInfo.cache

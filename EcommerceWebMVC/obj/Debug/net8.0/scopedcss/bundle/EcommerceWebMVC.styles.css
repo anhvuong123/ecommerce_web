@@ -1,0 +1,218 @@
+/* _content/EcommerceWebMVC/Views/Shared/_Layout.cshtml.rz.scp.css */
+body[b-7h8d8y061g] {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Đảm bảo chiều cao tối thiểu */
+  margin: 0; /* Bỏ margin mặc định */
+}
+
+/* Header */
+header[b-7h8d8y061g] {
+  background-color: #007bff; /* Màu nền cho header */
+  color: white; /* Màu chữ */
+  text-align: center;
+  padding: 1rem 0; /* Padding cho header */
+}
+
+/* Menu ngang */
+nav[b-7h8d8y061g] {
+  background-color: #000; /* Màu nền cho menu */
+}
+
+.navbar-nav .nav-link[b-7h8d8y061g] {
+  color: white; /* Màu chữ */
+  padding: 10px 15px;
+}
+
+.navbar-nav .nav-link:hover[b-7h8d8y061g] {
+  background-color: #555; /* Màu nền khi hover */
+  border-radius: 5px;
+}
+
+/* Thân trang */
+.container[b-7h8d8y061g] {
+  flex: 1; /* Đảm bảo chiếm không gian còn lại */
+}
+
+/* Sidebar */
+.sidebar[b-7h8d8y061g] {
+  background-color: #f8f9fa; /* Màu nền cho sidebar */
+  padding: 15px;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar a[b-7h8d8y061g] {
+  display: block; /* Chiếm toàn bộ chiều rộng */
+  padding: 10px;
+  color: #333; /* Màu chữ */
+  text-decoration: none; /* Bỏ gạch chân */
+  transition: background-color 0.3s; /* Hiệu ứng chuyển màu */
+}
+
+.sidebar a:hover[b-7h8d8y061g] {
+  background-color: #e9ecef; /* Màu nền khi hover */
+  color: #007bff; /* Đổi màu chữ khi hover */
+}
+
+/* Footer */
+footer[b-7h8d8y061g] {
+  display: flex;
+  flex-direction: column; /* Sắp xếp theo chiều dọc */
+  justify-content: center; 
+  align-items: center; 
+  background-color: #e2e6ea; 
+  padding: 20px 0; 
+  position: relative; 
+  bottom: 0; 
+  width: 100%; 
+  height: auto; 
+}
+
+footer p[b-7h8d8y061g] {
+  margin: 0; /* Xóa margin để không có khoảng cách giữa các dòng */
+  @* padding: 0; /* Xóa padding nếu có */ *@
+}
+
+.rounded-image[b-7h8d8y061g] {
+  border-radius: 50%; /* Để bo tròn hoàn toàn */
+  width: 150px; /* Chiều rộng tùy chỉnh */
+  height: 150px; /* Chiều cao tùy chỉnh */
+  object-fit: cover; /* Đảm bảo ảnh không bị biến dạng */
+  margin: 5px; /* Thêm khoảng cách giữa các hình ảnh */
+}
+.rounded-image:hover[b-7h8d8y061g] {
+  transform: scale(1.1); /* Phóng to 10% khi rê chuột */
+  cursor: pointer; /* Hiển thị con trỏ tay khi rê chuột */
+}
+
+@* View product by category *@
+.product-image {
+  width: 100%; /* Hoặc giá trị cụ thể như 200px */
+  height: auto; /* Giữ tỷ lệ khung hình */
+}
+
+.card-text[b-7h8d8y061g] {
+  margin: 0; /* Xóa margin mặc định */
+  padding: 0; /* Xóa padding nếu có */
+}
+
+.rating[b-7h8d8y061g] {
+  display: flex;
+}
+
+.star[b-7h8d8y061g] {
+  font-size: 20px; /* Kích thước ngôi sao */
+  color: #ccc; /* Màu ngôi sao rỗng */
+}
+
+.star.filled[b-7h8d8y061g] {
+  color: gold; /* Màu ngôi sao đầy */
+}
+
+.star.half-filled[b-7h8d8y061g] {
+  color: gold; /* Màu ngôi sao nửa */
+  position: relative;
+}
+
+.star.half-filled[b-7h8d8y061g]:before {
+  content: '\2605'; /* Ngôi sao đầy */
+  position: absolute;
+  left: 0;
+  width: 50%; /* Chỉ 50% chiều rộng cho ngôi sao nửa */
+  overflow: hidden; /* Ẩn phần còn lại */
+  color: gold; /* Màu ngôi sao nửa */
+}
+
+.pagination[b-7h8d8y061g] {
+  margin: 20px 0; /* Tạo khoảng cách trên và dưới cho phân trang */
+  display: flex;
+  justify-content: center; /* Căn giữa các nút phân trang */
+}
+
+.pagination a[b-7h8d8y061g] {
+  margin: 0 5px; /* Khoảng cách giữa các nút phân trang */
+  padding: 10px 15px; /* Thêm padding cho các nút */
+  border: 1px solid #007bff; /* Đường viền cho nút */
+  color: #007bff; /* Màu chữ */
+  text-decoration: none; /* Không gạch chân chữ */
+  border-radius: 5px; /* Bo góc cho nút */
+}
+
+.pagination a.active[b-7h8d8y061g] {
+  background-color: #007bff; /* Màu nền cho nút đang được chọn */
+  color: white; /* Màu chữ cho nút đang được chọn */
+}
+
+@* View Detail Product         *@
+.product-detail {
+  display: flex; /* Sử dụng Flexbox để bố trí */
+  align-items: flex-start; /* Căn chỉnh theo chiều dọc */
+}
+
+.product-info[b-7h8d8y061g] {
+  flex: 1; /* Chiếm không gian còn lại */
+  margin-left: 20px; /* Khoảng cách giữa hình ảnh và thông tin */
+  
+}
+.product-info p[b-7h8d8y061g] {
+  margin: 5px 0; /* Giảm khoảng cách giữa các dòng */
+  line-height: 1.4; /* Điều chỉnh chiều cao dòng để giảm khoảng trắng */
+}
+
+.img-fluid[b-7h8d8y061g] {
+  max-width: 100%; /* Đảm bảo hình ảnh không vượt quá chiều rộng */
+  height: auto; /* Giữ tỉ lệ khung hình */
+  max-height: 300px; /* Giới hạn chiều cao tối đa */
+}
+
+hr[b-7h8d8y061g] {
+  border: none; /* Bỏ viền mặc định */
+  height: 0.5px; /* Chiều cao dòng kẻ */
+  background-color: #ccc; /* Màu sắc dòng kẻ */
+  margin: 20px 0; /* Khoảng cách trên và dưới dòng kẻ */
+}
+.rating-bars[b-7h8d8y061g] {
+  margin-top: 20px;
+}
+
+.rating-row[b-7h8d8y061g] {
+  display: flex; /* Sử dụng flexbox để căn chỉnh */
+  align-items: center; /* Căn giữa theo chiều dọc */
+  margin-bottom: 0; /* Khoảng cách giữa các hàng */
+}
+
+.progress[b-7h8d8y061g] {
+  position: relative; /* Để sử dụng position absolute cho phần trăm */
+  flex-grow: 1; /* Cho phép thanh tiến trình chiếm không gian còn lại */
+  height: 15px; /* Chiều cao thanh tiến trình */
+  margin-left: 10px; /* Khoảng cách giữa số sao và thanh bar */
+}
+
+.progress-bar[b-7h8d8y061g] {
+  background-color: #007bff; /* Màu mặc định */
+  height: 100%; /* Đảm bảo thanh bar chiếm toàn bộ chiều cao của progress */
+}
+
+.percentage[b-7h8d8y061g] {
+  position: absolute; /* Định vị tuyệt đối */
+  right: 10px; /* Cách bên phải của thanh bar */
+  top: 0; /* Căn trên cùng */
+  color: #cb6df1; /* Màu chữ cho phần trăm */
+  font-weight: bold; /* Đậm chữ */
+  line-height: 15px; /* Căn giữa theo chiều cao của thanh bar */
+  white-space: nowrap; /* Ngăn chặn xuống dòng */
+}
+
+.rating-form[b-7h8d8y061g] {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-top: 0; /* Đảm bảo không có khoảng cách trên */
+}
+.form-control[b-7h8d8y061g] {
+  border-radius: 4px;
+}
+.btn-primary[b-7h8d8y061g] {
+  border-radius: 4px;
+}

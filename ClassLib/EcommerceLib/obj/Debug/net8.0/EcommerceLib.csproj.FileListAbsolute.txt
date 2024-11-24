@@ -1,0 +1,33 @@
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.deps.json
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.dll
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.pdb
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.AssemblyInfo.cs
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.dll
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\refint\EcommerceLib.dll
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.pdb
+C:\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\ref\EcommerceLib.dll
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.deps.json
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.dll
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.pdb
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.AssemblyInfoInputs.cache
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.AssemblyInfo.cs
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.csproj.CoreCompileInputs.cache
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.dll
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\refint\EcommerceLib.dll
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.pdb
+C:\Users\anhnguyenv1\OneDrive - NASHTECH\Study\Projects\DotNet\Study1\Seft-Practice\Challenges\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\ref\EcommerceLib.dll
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.deps.json
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.dll
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.pdb
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.AssemblyInfoInputs.cache
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.AssemblyInfo.cs
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.csproj.CoreCompileInputs.cache
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.dll
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\refint\EcommerceLib.dll
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.pdb
+C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\ref\EcommerceLib.dll
