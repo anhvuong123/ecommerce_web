@@ -3,7 +3,7 @@
 
 <img width="583" alt="image" src="https://github.com/user-attachments/assets/9f650ae4-1adf-43a3-a0b1-76e343496d9a">
 
-**Ecommerce - ASP.net Core MVC:**
+**Ecommerce - ASP.NET Core MVC:**
 
 <img width="942" alt="image" src="https://github.com/user-attachments/assets/4da34ff9-0310-4f87-bda4-cb39ae05c69a">
 
