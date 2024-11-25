@@ -1,9 +1,8 @@
-// Controllers/AccountController.cs
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Http;
 using System.Net.Http.Json;
 using System.Threading.Tasks;
-using EcommerceLib.Dtos; // Đảm bảo bạn import namespace của Dtos
+using EcommerceLib.Dtos;
 
 namespace AccountController.Controllers
 {
@@ -20,6 +19,36 @@ namespace AccountController.Controllers
         {
             ViewData["HideSidebar"] = false; // Hiển thị sidebar ở trang khác
             return View();
+        }
+
+        // GET: Account/Register
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+        // POST: Account/Register
+        [HttpPost]
+        public async Task<IActionResult> Register(UserCreateDto model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+            // set default role for Customer User as Basic User
+            model.Role = "Basic User";
+            // Call the Web API Register method
+            var response = await _httpClient.PostAsJsonAsync("http://localhost:5203/api/account/register", model);
+
+            if (response.IsSuccessStatusCode)
+            {
+                // Redirect to Login or Home after successful registration
+                return RedirectToAction("Login", "Account");
+            }
+
+            // Handle the case where the registration failed
+            ModelState.AddModelError(string.Empty, "Registration failed. Please try again.");
+            return View(model);
         }
 
         [HttpGet]

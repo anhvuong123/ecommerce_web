@@ -32,7 +32,7 @@ namespace EcommerceAPI.Controllers
             _userService = userService;
         }
         [HttpPost("register")]
-        [Authorize]
+        //[Authorize]
         public async Task<IActionResult> Register(UserCreateDto model)
         {
             if (!ModelState.IsValid)
@@ -40,19 +40,15 @@ namespace EcommerceAPI.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Tạo user
+            // create user
             var user = new ApplicationUser { UserName = model.Username, Email = model.Email, PhoneNumber = model.PhoneNumber };
-            
-            // Sử dụng transaction để đảm bảo tính toàn vẹn
             var result = await _userManager.CreateAsync(user, model.Password);
             
-            // Nếu không tạo người dùng thành công, trả lỗi
             if (!result.Succeeded)
             {
                 return BadRequest(new { Error = "Register failed", Details = result.Errors });
             }
 
-            // Kiểm tra Role trước khi gán cho user
             if (!string.IsNullOrEmpty(model.Role))
             {
                 // Kiểm tra xem Role có tồn tại hay không
@@ -60,7 +56,7 @@ namespace EcommerceAPI.Controllers
                 if (!roleExists)
                 {
                     // Nếu không tồn tại role, rollback việc tạo người dùng
-                    await _userManager.DeleteAsync(user); // Xóa người dùng đã tạo
+                    await _userManager.DeleteAsync(user);
                     return BadRequest(new { Error = $"Role '{model.Role}' does not exist" });
                 }
 
@@ -69,7 +65,7 @@ namespace EcommerceAPI.Controllers
                 if (!roleResult.Succeeded)
                 {
                     // Nếu không thêm được role, rollback việc tạo người dùng
-                    await _userManager.DeleteAsync(user); // Xóa người dùng đã tạo
+                    await _userManager.DeleteAsync(user);
                     return BadRequest(new { Error = "Failed to assign role", Details = roleResult.Errors });
                 }
             }
@@ -117,7 +113,7 @@ namespace EcommerceAPI.Controllers
             {
                 var roles = await _userManager.GetRolesAsync(user);
 
-                var token = GenerateJwtToken(model.Username); // Bạn đã có hàm này
+                var token = GenerateJwtToken(model.Username); 
 
                 // Return token & roles
                 return Ok(new { token, roles });

@@ -1,287 +1,287 @@
 {
   "Files": [
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\css\\_Layout.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\css\\_Layout.css",
       "PackagePath": "staticwebassets\\css\\_Layout.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\css\\site.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\favicon.ico",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\about\\Accessories.jpg",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\about\\Accessories.jpg",
       "PackagePath": "staticwebassets\\images\\about\\Accessories.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\about\\Accessories_temp.jpg",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\about\\Accessories_temp.jpg",
       "PackagePath": "staticwebassets\\images\\about\\Accessories_temp.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\about\\CoreComponents.jpg",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\about\\CoreComponents.jpg",
       "PackagePath": "staticwebassets\\images\\about\\CoreComponents.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\about\\Gaming.jpg",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\about\\Gaming.jpg",
       "PackagePath": "staticwebassets\\images\\about\\Gaming.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\about\\Refurbished.jpg",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\about\\Refurbished.jpg",
       "PackagePath": "staticwebassets\\images\\about\\Refurbished.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\about\\StorageDevices.jpg",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\about\\StorageDevices.jpg",
       "PackagePath": "staticwebassets\\images\\about\\StorageDevices.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\banner\\header_main.jpg",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\banner\\header_main.jpg",
       "PackagePath": "staticwebassets\\images\\banner\\header_main.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\login\\login.JPG",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\login\\login.JPG",
       "PackagePath": "staticwebassets\\images\\login\\login.JPG"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\product\\product-a.jpg",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\product\\product-a.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-a.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\images\\product\\product-a_temp.jpg",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\images\\product\\product-a_temp.jpg",
       "PackagePath": "staticwebassets\\images\\product\\product-a_temp.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\js\\site.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

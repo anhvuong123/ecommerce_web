@@ -31,3 +31,15 @@ C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\n
 C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\refint\EcommerceLib.dll
 C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.pdb
 C:\Workplaces\Study\.NET\Assessment\Assessment\ClassLib\EcommerceLib\obj\Debug\net8.0\ref\EcommerceLib.dll
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.deps.json
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.dll
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\bin\Debug\net8.0\EcommerceLib.pdb
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.AssemblyInfoInputs.cache
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.AssemblyInfo.cs
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.csproj.CoreCompileInputs.cache
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.sourcelink.json
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.dll
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\obj\Debug\net8.0\refint\EcommerceLib.dll
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\obj\Debug\net8.0\EcommerceLib.pdb
+C:\Workplaces\Study\.NET\Adhoc\ClassLib\EcommerceLib\obj\Debug\net8.0\ref\EcommerceLib.dll

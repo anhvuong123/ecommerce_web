@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\EcommerceWebMVC.csproj",
+      "projectUniqueName": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\EcommerceWebMVC.csproj",
       "projectName": "EcommerceWebMVC",
-      "projectPath": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\EcommerceWebMVC.csproj",
+      "projectPath": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\EcommerceWebMVC.csproj",
       "packagesPath": "C:\\Users\\anhnguyenv1\\.nuget\\packages\\",
-      "outputPath": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\EcommerceWebMVC\\obj\\",
+      "outputPath": "C:\\Workplaces\\Study\\.NET\\Adhoc\\EcommerceWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anhnguyenv1\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\ClassLib\\EcommerceLib\\EcommerceLib.csproj": {
-              "projectPath": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\ClassLib\\EcommerceLib\\EcommerceLib.csproj"
+            "C:\\Workplaces\\Study\\.NET\\Adhoc\\ClassLib\\EcommerceLib\\EcommerceLib.csproj": {
+              "projectPath": "C:\\Workplaces\\Study\\.NET\\Adhoc\\ClassLib\\EcommerceLib\\EcommerceLib.csproj"
             }
           }
         }

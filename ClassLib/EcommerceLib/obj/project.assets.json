@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\ClassLib\\EcommerceLib\\EcommerceLib.csproj",
+      "projectUniqueName": "C:\\Workplaces\\Study\\.NET\\Adhoc\\ClassLib\\EcommerceLib\\EcommerceLib.csproj",
       "projectName": "EcommerceLib",
-      "projectPath": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\ClassLib\\EcommerceLib\\EcommerceLib.csproj",
+      "projectPath": "C:\\Workplaces\\Study\\.NET\\Adhoc\\ClassLib\\EcommerceLib\\EcommerceLib.csproj",
       "packagesPath": "C:\\Users\\anhnguyenv1\\.nuget\\packages\\",
-      "outputPath": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\ClassLib\\EcommerceLib\\obj\\",
+      "outputPath": "C:\\Workplaces\\Study\\.NET\\Adhoc\\ClassLib\\EcommerceLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anhnguyenv1\\AppData\\Roaming\\NuGet\\NuGet.Config"
