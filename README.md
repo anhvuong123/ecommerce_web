@@ -9,6 +9,7 @@
 
 **Ecommerce - ReactJS (for Admin):**
 
-<img width="931" alt="image" src="https://github.com/user-attachments/assets/d3e352ad-61cd-40b4-b037-f8d9f2f7a574">
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/6fa00057-121f-4126-a055-312eb5bada30">
+
 
 
