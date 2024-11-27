@@ -17,6 +17,8 @@ Open your SQL Server and restore the backup DB from DB_Backup folder (for easy t
    vietanh/Kcs@222
    ```
 
+ Note: we have 2 roles (Basic User & Admin User) from AspNetRoles
+
 ## (API project)
 ### Step 1: Install packages  
 Open your terminal and navigate to your project directory. Run the following commands to install the necessary packages:
