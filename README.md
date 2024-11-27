@@ -90,6 +90,7 @@ Once the project is running, you can access it in your web browser at `https://l
 
 ## (EcomerceWebMVC project)
 ### Step 1: Add class library
+Open your terminal and navigate to your project directory. Run the following commands to add necessary class library:
   ```bash
 dotnet add reference ../ClassLib/EcommerceLib/EcommerceLib.csproj
   ```
@@ -116,6 +117,7 @@ Once the project is running, you can access it in your web browser at `https://l
 
 ## (ecommerce_reactjs_admin project)
 ### Step 1: Install packages
+Open your terminal and navigate to your project directory. Run the following commands to install the necessary packages:
   ```bash
 npm install axios react-router-dom react-bootstrap bootstrap 
   ```
