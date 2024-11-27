@@ -2,6 +2,21 @@
 You can download and install the .NET 8 SDK from the following link:  
 [Download .NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
+## (Restore Backup DB)
+### Step 1: Install packages  
+Open your SQL Server and restore the backup DB from DB_Backup folder (for easy to get sample data in the Assessment, then you can create/edit data from admin page <ecommerce_reactjs_admin>)
+### Step 2: Can pick sample user to work in WebEcommerceMVC (to login & vote product rating) and ecommerce_reactjs_admin (to manage information):
+
+1. **WebEcommerceMVC**
+   ```bash
+   user001/Kcs@222
+   ```
+
+2. **ecommerce_reactjs_admin**
+   ```bash
+   vietanh/Kcs@222
+   ```
+
 ## (API project)
 ### Step 1: Install packages  
 Open your terminal and navigate to your project directory. Run the following commands to install the necessary packages:
