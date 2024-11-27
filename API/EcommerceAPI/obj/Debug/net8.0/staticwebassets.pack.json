@@ -1,36 +1,64 @@
 {
   "Files": [
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\API\\EcommerceAPI\\wwwroot\\uploads\\Screenshot 2024-11-18 083914.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-11-18 083914.png"
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\A994S2301091DD8WE61.jpg",
+      "PackagePath": "staticwebassets\\uploads\\A994S2301091DD8WE61.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\API\\EcommerceAPI\\wwwroot\\uploads\\Screenshot 2024-11-18 085014.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-11-18 085014.png"
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\AJA1S2406181CGU7I91.jpg",
+      "PackagePath": "staticwebassets\\uploads\\AJA1S2406181CGU7I91.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\API\\EcommerceAPI\\wwwroot\\uploads\\Screenshot 2024-11-18 091106.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-11-18 091106.png"
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\AMD_Cpu.jfif",
+      "PackagePath": "staticwebassets\\uploads\\AMD_Cpu.jfif"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\API\\EcommerceAPI\\wwwroot\\uploads\\Screenshot 2024-11-19 073802.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-11-19 073802.png"
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\ASRockTaichiWhiteRadeonRX7900.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ASRockTaichiWhiteRadeonRX7900.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\API\\EcommerceAPI\\wwwroot\\uploads\\Screenshot 2024-11-22 105339.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-11-22 105339.png"
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\ASUSROGSTRIXZ390-EGAMING.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ASUSROGSTRIXZ390-EGAMING.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\API\\EcommerceAPI\\wwwroot\\uploads\\Screenshot 2024-11-22 105351.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-11-22 105351.png"
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\BREWS231218066XEA1C.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BREWS231218066XEA1C.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\API\\EcommerceAPI\\wwwroot\\uploads\\Screenshot 2024-11-24 061800.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-11-24 061800.png"
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\BVXAS240711156Z1CDE.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BVXAS240711156Z1CDE.jpg"
     },
     {
-      "Id": "C:\\Workplaces\\Study\\.NET\\Assessment\\Assessment\\API\\EcommerceAPI\\wwwroot\\uploads\\Screenshot 2024-11-24 061803.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-11-24 061803.png"
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\CORSAIR3500XARGBTemperedGlassMid.jfif",
+      "PackagePath": "staticwebassets\\uploads\\CORSAIR3500XARGBTemperedGlassMid.jfif"
+    },
+    {
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\GIGABYTEX870.jpg",
+      "PackagePath": "staticwebassets\\uploads\\GIGABYTEX870.jpg"
+    },
+    {
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\Intel_Cpu.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Intel_Cpu.jpg"
+    },
+    {
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\MSIB650.jpg",
+      "PackagePath": "staticwebassets\\uploads\\MSIB650.jpg"
+    },
+    {
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\MSIVentusGeForceRTX 3060.jpg",
+      "PackagePath": "staticwebassets\\uploads\\MSIVentusGeForceRTX 3060.jpg"
+    },
+    {
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\ORICOUSB3.0HUB.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ORICOUSB3.0HUB.jpg"
+    },
+    {
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\SAMSUNGT9_2TB.jpg",
+      "PackagePath": "staticwebassets\\uploads\\SAMSUNGT9_2TB.jpg"
+    },
+    {
+      "Id": "C:\\Workplaces\\Study\\.NET\\Adhoc\\API\\EcommerceAPI\\wwwroot\\uploads\\SeagateStorageExpansionCard2TB.jpg",
+      "PackagePath": "staticwebassets\\uploads\\SeagateStorageExpansionCard2TB.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceAPI.Microsoft.AspNetCore.StaticWebAssets.props",
